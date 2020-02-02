@@ -2,7 +2,7 @@ ZotReq
 -
 HackUCI 2020 Project
 
-Developed a website that improves the readability of the Course Prerequisites of the University of California Irvine (UCI) (https://www.reg.uci.edu/cob/prrqcgi).
+Developed an application that improves the readability of the Course Prerequisites of the University of California Irvine (UCI) (https://www.reg.uci.edu/cob/prrqcgi).
 Currently, ZotReq can only be used to search for COMPSCI courses, but we are looking forward to expand the prerequisites for the all UCI departments.
 
 Prerequisites
